@@ -18,7 +18,7 @@ Os dados estão no arquivo `vendas_livros.csv` e incluem informações sobre o t
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/GustavoSimoesFerreira/Portfolio-An-lise-de-Dados.git
+   git clone https://github.com/GustavoSimoesFerreira/Vendas_Livros.git
 
 2. Instale os pacotes:
     pip install pandas numpy matplotlib seaborn scikit-learn
