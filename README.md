@@ -1,6 +1,6 @@
 # Análise de Vendas de Livros
 
-Este projeto realiza uma análise de um conjunto de dados de vendas de livros para identificar tendências e padrões.
+Este projeto é um treino para realizar análises básicas de um conjunto de dados de vendas de livros para identificar tendências e padrões.
 
 
 ## Dados
